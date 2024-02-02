@@ -1,10 +1,10 @@
 // API information
-export const LOCAL_API_URL = 'http://localhost:3000/api';
+export const LOCAL_API_URL = 'https://bn-backend-6pt7.onrender.com/api';
 export const PROD_API_URL = 'https://api.mchacks.ca/api';
 // export const DEV_API_URL =
 //   'https://hackerapi-dev-90b58016f161.herokuapp.com/api';
 export const DEV_API_URL =
-  'https://hackerapis-9cc2b197a740.herokuapp.com/api';
+  'https://bn-backend-6pt7.onrender.com/api';
 
 // Cache information
 export const CACHE_USER_KEY = 'userInfo';
