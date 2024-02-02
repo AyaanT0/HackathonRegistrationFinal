@@ -5,7 +5,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "start": "PORT=1337 react-app-rewired start",
+    "start": "set PORT=1337 && react-app-rewired start",
     "start-windows": "set PORT=1337 && react-app-rewired start",
     "build": "PORT=1337 react-app-rewired build",
     "predeploy": "yarn build",
