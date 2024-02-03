@@ -89,5 +89,6 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "proxy": "https://newbackend-3ecdbb6f0da2.herokuapp.com/"
 }
