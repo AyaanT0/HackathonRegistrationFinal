@@ -182,4 +182,4 @@ export const SETTINGS_IS_REMOTE_LABEL = 'Remote hackathon mode';
 
 // Sentry
 export const SENTRY_DSN =
-  'https://26f1d8550cc34833b9e04894a8192611@o659380.ingest.sentry.io/5764002';
+  'https://62d8553748c0811d40ef8a1a83814e96@o4506899254214656.ingest.us.sentry.io/4506899262537728';
