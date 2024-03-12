@@ -90,5 +90,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "proxy": "https://api.vikinghacks.org/"
+  "proxy": "https://hackerapis-9cc2b197a740.herokuapp.com"
 }
