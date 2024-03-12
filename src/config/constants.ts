@@ -2,7 +2,7 @@
 export const LOCAL_API_URL = 'http://localhost:8080/api';
 export const PROD_API_URL = 'https://api.vikinghacks.org/api';
 export const DEV_API_URL =
-  'https://api.vikinghacks.org/api';
+  'https://hackerapis-9cc2b197a740.herokuapp.com/api';
 
 // Cache information
 export const CACHE_USER_KEY = 'userInfo';
