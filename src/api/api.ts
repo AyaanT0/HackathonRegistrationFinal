@@ -50,7 +50,7 @@ if (
   window.location.hostname === ''
 ) {
   API_URL = LOCAL_API_URL;
-} else if (window.location.hostname === 'app.mchacks.ca') {
+} else if (window.location.hostname === 'hackerapis-9cc2b197a740.herokuapp.com') {
   API_URL = PROD_API_URL;
 } else {
   API_URL = DEV_API_URL;
